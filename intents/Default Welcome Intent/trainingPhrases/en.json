@@ -2,8 +2,7 @@
   "trainingPhrases": [ {
     "id": "bf1af8f4-16c1-442e-adcd-af015345043c",
     "parts": [ {
-      "text": "just going to say hi",
-      "auto": true
+      "text": "Hello There Brian"
     } ],
     "repeatCount": 1,
     "languageCode": "en"
